@@ -1,0 +1,27 @@
+{
+    "name": "space-troopers",
+    "category": "gaming",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "empty",
+    "description": "space troopers is a play-to-earn nft project providing a sci-fi gladiator management game enabling players to earn weekly ada in arena rewards.",
+    "logo_url": {
+      "path": "/logo/space-troopers.png",
+      "base64": "/logo/space-troopers.json"
+    },
+    "whitepaper": "https://spacetroopers.org/",
+    "website": "https://spacetroopers.org/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "https://www.instagram.com/spacetrooperscnft/",
+      "youtube": "",
+      "discord": "https://discord.com/invite/qTPcjM4jmQ",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/spacetrooperNFT"
+    },
+    "tags": ["nft", "earn", "community", "game"]
+  }

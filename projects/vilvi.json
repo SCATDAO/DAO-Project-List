@@ -1,0 +1,27 @@
+{
+    "name": "vilvi",
+    "category": "nft",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "vilvi",
+    "description": "platform for distributing music based physical music media and digital nfts, with a marketplace for fans and collectors to buy and resell their work.",
+    "logo_url": {
+      "path": "/logo/vilvi.png",
+      "base64": "/logo/vilvi.json"
+    },
+    "whitepaper": "https://ipfs.io/ipfs/QmQuiZDvnWB3m4Dqqt7GpMMdUsYattVQWrH5WSbqyMTtbw?filename=VILVI%20%20-%20Whitepaper%203.3..pdf",
+    "website": "https://vilvi.io/",
+    "repository": { "name": "github", "link": "https://github.com/mattvurtly/vilvi" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/+JsdfO0fpjJY4MWJk",
+      "instagram": "https://www.instagram.com/vilviofficial/",
+      "youtube": "",
+      "discord": "",
+      "medium": "",
+      "facebook": "https://web.facebook.com/Vilvinftvinyl",
+      "twitter": "https://twitter.com/vilviofficial/"
+    },
+    "tags": ["nft", "art", "music", "vinyl"]
+  }

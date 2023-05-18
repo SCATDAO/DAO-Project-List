@@ -1,0 +1,27 @@
+{
+    "name": "cardalonia",
+    "category": "metaverse",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "lonia",
+    "description": "cardalonia is a 3d virtual reality experience owned by creators where they can explore the metaverse, play-to-earn metaverse.",
+    "logo_url": {
+      "path": "/logo/cardalonia.png",
+      "base64": "/logo/cardalonia.json"
+    },
+    "whitepaper": "https://cardalonia.io/",
+    "website": "https://cardalonia.io/",
+    "repository": { "name": "github", "link": "https://github.com/alicesand" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "",
+      "medium": "https://cardalonia.medium.com/",
+      "facebook": "",
+      "twitter": "https://twitter.com/SandZxc94114"
+    },
+    "tags": ["metaverse", "earn", "game", "3d"]
+  }

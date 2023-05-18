@@ -1,0 +1,27 @@
+{
+    "name": "kulfi-finance",
+    "category": "defi",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "kls",
+    "description": "introduces fixed rate lending and borrowing protocol on cardano, the primary use case of the kulfi Finance token kls is as a governance.",
+    "logo_url": {
+      "path": "/logo/kulfi-finance.png",
+      "base64": "/logo/kulfi-finance.json"
+    },
+    "whitepaper": "https://kulfi.gitbook.io/kulfi-finance-3/",
+    "website": "https://kulfifinance.io/",
+    "repository": { "name": "github", "link": "https://github.com/kulfifinance" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/+rphyUBMegsU3ZTI0",
+      "instagram": "https://www.instagram.com/Kulfi_finance/",
+      "youtube": "https://www.youtube.com/channel/UCFfkMuPjE2bgBJikq-u1GpQ",
+      "discord": "https://discord.com/invite/fzsa8ynF97",
+      "medium": "https://medium.com/@Kulfi_finance",
+      "facebook": "",
+      "twitter": "https://twitter.com/kulfi_finance"
+    },
+    "tags": ["defi", "lending", "borrowing", "dao"]
+  }

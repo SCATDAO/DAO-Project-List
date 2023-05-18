@@ -1,0 +1,27 @@
+{
+    "name": "raccoon-syndicate",
+    "category": "game",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "empty",
+    "description": "a high-quality, next-generation 3d rendered cardano nft project aiming to explore plutus powered smart contract gaming.",
+    "logo_url": {
+      "path": "/logo/raccoon-syndicate.png",
+      "base64": "/logo/raccoon-syndicate.json"
+    },
+    "whitepaper": "https://rswebpublic2.s3.amazonaws.com/wppdf/RaccoonSyndicate_Whitepaper_v1.1.2.pdf",
+    "website": "https://raccoonsyndicate.com/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/j5ZW5uDBx3",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/RaccoonSyndicat"
+    },
+    "tags": ["3d", "nft", "game", "art"]
+  }

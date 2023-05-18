@@ -1,0 +1,27 @@
+{
+    "name": "freeloaderz",
+    "category": "dao",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "flz",
+    "description": "coalition of cardano stake pools offering url api access to their relay servers to help improve transaction speed by opening up ports to user wallets.",
+    "logo_url": {
+      "path": "/logo/freeloaderz.png",
+      "base64": "/logo/freeloaderz.json"
+    },
+    "whitepaper": "https://freeloaderz.gitbook.io/",
+    "website": "https://www.freeloaderz.io/",
+    "repository": { "name": "github", "link": "https://github.com/freeloaderz" },
+    "community": {
+      "reddit": "https://www.reddit.com/r/freeloaderz/",
+      "telegram": "https://t.me/FreeloaderzDAO",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/3TFQcM4tSq",
+      "medium": "https://freeloaderz.medium.com/",
+      "facebook": "",
+      "twitter": "https://twitter.com/FreeLoaderz2022"
+    },
+    "tags": ["dao", "developer", "dapp", "infrastructure"]
+  }

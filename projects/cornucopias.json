@@ -1,0 +1,27 @@
+{
+    "name": "cornucopias",
+    "category": "metaverse",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "copi",
+    "description": "cornucopias is a massive play-to-earn, build-to-earn, and learn-to-earn blockchain based game where players can be rewarded with own land.",
+    "logo_url": {
+        "path": "/logo/cornucopias.png",
+        "base64": "/logo/cornucopias.json"
+      },
+    "whitepaper": "",
+    "website": "https://www.cornucopias.io/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/joinchat/Oo_NLKyNrjI5NDQ8",
+      "instagram": "https://instagram.com/cornucopias.game",
+      "youtube": "https://www.youtube.com/c/CornucopiasGame",
+      "discord": "https://discord.gg/cornucopiasofficial",
+      "medium": "https://www.cornucopias.io/blog/",
+      "facebook": "https://www.facebook.com/cornucopiasgame/",
+      "twitter": "https://twitter.com/CornucopiasGame"
+    },
+    "tags": ["gaming","earn","build","world"]
+  }

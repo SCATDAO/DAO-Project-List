@@ -1,0 +1,27 @@
+{
+    "name": "sweetdao",
+    "category": "dex",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "sweet",
+    "description": "the best self-sufficient decentralized exchange through protocol owned liquidity as well as having a token that is backed by assets.",
+    "logo_url": {
+      "path": "/logo/sweetdao.png",
+      "base64": "/logo/sweetdao.json"
+    },
+    "whitepaper": "https://sweetdao.gitbook.io/whitepaper/white-paper/welcome-to-sweetdao",
+    "website": "https://www.sweetdao.finance/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/thesweetdao"
+    },
+    "tags": ["swap", "earn", "dao", "nft"]
+  }

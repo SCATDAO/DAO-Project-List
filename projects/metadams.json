@@ -1,0 +1,27 @@
+{
+    "name": "metadams",
+    "category": "metaverse",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "metadams",
+    "description": "metadams is a play-to-stake metaverse based on the cardano blockchain. requires a redistribution of staking rewards based on player performance.",
+    "logo_url": {
+        "path": "/logo/metadams.png",
+        "base64": "/logo/metadams.json"
+      },
+    "whitepaper": "https://metadams.io/Metadams_Play-to-Stake.pdf",
+    "website": "https://metadams.io/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "https://www.instagram.com/metadams.io/",
+      "youtube": "",
+      "discord": "https://discord.com/invite/qqXH3jUKhU",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/Metadams_Game"
+    },
+    "tags": ["stake", "gaming", "rewards", "world"]
+  }

@@ -1,0 +1,27 @@
+{
+    "name": "nemonium",
+    "category": "nft",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "skull",
+    "description": "nemonium is establishing a fully enclosed, self-sustaining ecosystem for art on cardano, the currency of the ecosystem is skull.",
+    "logo_url": {
+      "path": "/logo/nemonium.png",
+      "base64": "/logo/nemonium.json"
+    },
+    "whitepaper": "",
+    "website": "https://www.nemo.global/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/_nemonium"
+    },
+    "tags": ["art", "nft", "community", "skull"]
+  }

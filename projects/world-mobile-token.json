@@ -1,0 +1,35 @@
+{
+	"name": "world-mobile-token",
+	"category": "mobile",
+	"funded": "private",
+	"listed": "community",
+	"audited": "yes",
+	"symbol": "wmt",
+	"description": "World mobile unlock the benefits of blockchain on a mobile network. All transactions will be paid out in wmt to node operators and stakers.",
+    "logo_url": {
+        "path": "/logo/world-mobile-token.png",
+        "base64": "/logo/world-mobile-token.json"
+      },
+	"whitepaper": "https://worldmobiletoken.com/WhitePaper.pdf",
+	"website": "https://worldmobiletoken.com/",
+	"repository": {
+		"name": "",
+		"link": ""
+	},
+	"community": {
+		"reddit": "",
+		"telegram": "https://t.me/WorldMobileTeam",
+		"instagram": "",
+		"youtube": "",
+		"discord": "https://discord.gg/worldmobile",
+		"medium": "https://worldmobiletoken.com/blog/",
+		"facebook": "",
+		"twitter": "https://twitter.com/wmtoken"
+	},
+	"tags": [
+		"mobile",
+		"network",
+		"world",
+		"stake"
+	]
+}

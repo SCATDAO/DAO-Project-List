@@ -1,0 +1,27 @@
+{
+    "name": "cardanovillage",
+    "category": "metaverse",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "cardanovillage",
+    "description": "this project is metaverse, there is a continent and there is a village in it, cardanians carry out various activities such as land, houses decoration.",
+    "logo_url": {
+        "path": "/logo/cardanovillage.png",
+        "base64": "/logo/cardanovillage.json"
+      },
+    "whitepaper": "https://cardanovillage.io/faq",
+    "website": "https://cardanovillage.io/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/D43C653t9x",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/CARDANOVILLAGE"
+    },
+    "tags": ["world", "nft", "social", "gaming"]
+  }

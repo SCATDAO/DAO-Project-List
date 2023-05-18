@@ -1,0 +1,35 @@
+{
+    "name": "adadao",
+    "category": "stablecoin",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "adao",
+    "description": "adadao is a defi protocol on cardano blockchain which facilitates creation of fully collateralized stable coins leveraging native cardano assets.",
+    "logo_url": {
+        "path": "/logo/adadao.png",
+        "base64": "/logo/adadao.json"
+      },
+    "whitepaper": "https://docs.adadao.org/",
+    "website": "https://www.adadao.org/",
+    "repository": {
+      "name": "github",
+      "link": "https://github.com/adadao-org"
+    },
+    "community": {
+      "reddit": "https://www.reddit.com/r/adadao/",
+      "telegram": "https://t.me/adadao_org",
+      "instagram": "",
+      "youtube": "",
+      "discord": "",
+      "medium": "https://adadao.medium.com/",
+      "facebook": "",
+      "twitter": "https://twitter.com/adadao_org"
+    },
+    "tags": [
+      "native",
+      "stablecoin",
+      "coin",
+      "leveraging"
+    ]
+  }

@@ -1,0 +1,27 @@
+{
+    "name": "cswap",
+    "category": "dex",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "cswap",
+    "description": "first and foremost a peer-to-peer decentralized marketplace where cryptocurrency traders can trade crypto via direct txs executed by smart contracts.",
+    "logo_url": {
+      "path": "/logo/cswap.png",
+      "base64": "/logo/cswap.json"
+    },
+    "whitepaper": "https://cswap-systems.gitbook.io/docs/information/cswap-lightpaper-v1.0",
+    "website": "https://www.cswap.info/",
+    "repository": { "name": "github", "link": "https://github.com/cswapsystems" },
+    "community": {
+      "reddit": "https://www.reddit.com/r/CswapDEX/",
+      "telegram": "https://t.me/CswapDEX",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCQFmJoJVrfj_QOfylxEsqtg",
+      "discord": "https://discord.com/invite/JNFDH8ENd5",
+      "medium": "https://medium.com/@cswapdex",
+      "facebook": "",
+      "twitter": "https://twitter.com/CswapDEX"
+    },
+    "tags": ["dex", "nft", "staking", "defi"]
+  }

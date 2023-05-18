@@ -1,0 +1,27 @@
+{
+    "name": "anetabtc",
+    "category": "bridge",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "cneta",
+    "description": "anetabtc is a fully on-chain, decentralized protocol that allows bitcoin to be directly wrapped on the ergo and cardano blockchains.",
+    "logo_url": {
+      "path": "/logo/anetabtc.png",
+      "base64": "/logo/anetabtc.json"
+    },
+    "whitepaper": "https://medium.com/@anetaBTC/anetabtc-litepaper-v1-0-171f29b3276a",
+    "website": "https://anetabtc.io/",
+    "repository": { "name": "github", "link": "https://github.com/anetaBTC" },
+    "community": {
+      "reddit": "https://www.reddit.com/r/anetaBTC/",
+      "telegram": "https://t.me/anetaBTC",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/agRnHsZqhJ",
+      "medium": "https://medium.com/@anetaBTC",
+      "facebook": "",
+      "twitter": "https://twitter.com/anetaBTC"
+    },
+    "tags": ["defi", "btc", "bridge", "dao"]
+  }

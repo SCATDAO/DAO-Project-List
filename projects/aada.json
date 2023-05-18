@@ -1,0 +1,28 @@
+{
+    "name": "aada",
+    "category": "lending",
+    "funded": "private",
+    "listed": "community",
+    "audited": "yes",
+    "symbol": "aada",
+    "description": "Lending and borrowing protocol on the Cardano blockchain. It allows users to create liquidity requests and deposits in an order book style.",
+    "logo_url": "https://auditdao.nyc3.digitaloceanspaces.com/logo/aada.png",
+    "logo_url": {
+      "path": "/logo/aada.png",
+      "base64": "/logo/aada.json"
+    },
+    "whitepaper": "https://github.com/aadafinance/materials/blob/main/Aada%20Finance%20Whitepaper%20Version%201.9.2.pdf",
+    "website": "https://aada.finance/",
+    "repository": { "name": "github", "link": "https://github.com/aadafinance" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/aadacommunity",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/c/Aadafinance",
+      "discord": "https://discord.com/invite/tAtMJdYpeC",
+      "medium": "https://medium.com/@aada.finance",
+      "facebook": "",
+      "twitter": "https://twitter.com/AadaFinance"
+    },
+    "tags": ["leverage","borrowing","hedging", "farming"]
+  }

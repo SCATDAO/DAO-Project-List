@@ -1,0 +1,27 @@
+{
+    "name": "scatdao",
+    "category": "audit",
+    "funded": "catalyst",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "audit",
+    "description": "scat dao is a new audit paradigm that reinvents the way audits are selected, performed, and financed, community-led audits and tool development.",
+    "logo_url": {
+      "path": "/logo/scatdao.png",
+      "base64": "/logo/scatdao.json"
+    },
+    "whitepaper": "https://scatdao.b-cdn.net/wp-content/uploads/2022/06/SCATDAO-Whitepaper.pdf",
+    "website": "https://www.scatdao.com/",
+    "repository": { "name": "github", "link": "https://github.com/scatdao" },
+    "community": {
+      "reddit": "https://www.reddit.com/r/SCATDAO/",
+      "telegram": "https://t.me/SCAT_DAO",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/@smartcontractaudittoken434",
+      "discord": "https://discord.com/invite/rfFkJxu9kP",
+      "medium": "https://medium.com/@scatdao",
+      "facebook": "",
+      "twitter": "https://twitter.com/SCATDAO"
+    },
+    "tags": ["audit", "governance", "tools", "developer"]
+  }

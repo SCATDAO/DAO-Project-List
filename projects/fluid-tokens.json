@@ -1,0 +1,27 @@
+{
+    "name": "fluid-tokens",
+    "category": "lending",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "fldt",
+    "description": "a p2p lending protocol where borrowers set the terms and front their cardano nft as collateral for an ada loan, lender then choose which loan to fund.",
+    "logo_url": {
+      "path": "/logo/fluid-tokens.png",
+      "base64": "/logo/fluid-tokens.json"
+    },
+    "whitepaper": "https://docs.fluidtokens.com/whitepapers/",
+    "website": "https://fluidtokens.com/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/s8q4kG48Mg",
+      "medium": "https://medium.com/@FluidTokens",
+      "facebook": "",
+      "twitter": "https://twitter.com/FluidTokens"
+    },
+    "tags": ["lending","marketplace", "nft", "defi"]
+  }

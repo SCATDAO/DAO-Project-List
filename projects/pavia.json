@@ -1,0 +1,27 @@
+{
+    "name": "pavia",
+    "category": "metaverse",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "pavia",
+    "description": "pavia is an evolving, community-built virtual world where you can create, play, own and earn to the creators, builders, the gamers, the entertainers.",
+    "logo_url": {
+        "path": "/logo/pavia.png",
+        "base64": "/logo/pavia.json"
+      },
+    "whitepaper": "https://pavia.io/documents",
+    "website": "https://www.pavia.io/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "https://www.reddit.com/r/PaviaMetaverse/",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/c/PaviaCorp",
+      "discord": "https://discord.com/invite/pavia",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/Pavia_io"
+    },
+    "tags": ["nft","gaming","social", "world"]
+  }

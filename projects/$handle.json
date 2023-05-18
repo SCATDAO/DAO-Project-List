@@ -1,0 +1,27 @@
+{
+    "name": "$handle",
+    "category": "service",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "empty",
+    "description": "an address routing service allowing users to own human readable addresses for their cardano wallets, simplifying the sending and receiving of ada.",
+    "logo_url": {
+      "path": "/logo/$handle.png",
+      "base64": "/logo/$handle.json"
+    },
+    "whitepaper": "",
+    "website": "https://adahandle.com/",
+    "repository": { "name": "github", "link": "https://github.com/koralabs" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/sYkFgRQFwG",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/adahandle"
+    },
+    "tags": ["service", "nft", "wallet", "tool"]
+  }

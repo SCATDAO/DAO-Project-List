@@ -1,0 +1,27 @@
+{
+    "name": "newm",
+    "category": "music",
+    "funded": "catalyst",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "newm",
+    "description": "a music ecosystem empowering musicians with a streaming platform and marketplace returning control and ownership for the rights and of their work.",
+    "logo_url": {
+        "path": "/logo/newm.png",
+        "base64": "/logo/newm.json"
+      },
+    "whitepaper": "https://newm.io/wp-content/uploads/2022/06/projectNEWM_Whitepaper_V1.pdf",
+    "website": "https://newm.io/",
+    "repository": { "name": "github", "link": "https://github.com/projectNEWM" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/NEWMofficial",
+      "instagram": "https://instagram.com/projectnewm.io",
+      "youtube": "https://www.youtube.com/channel/UCcsBNWGjIf8YarD9uaZEEvw",
+      "discord": "https://discord.com/invite/z4sYqxqgvQ",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/projectNEWM"
+    },
+    "tags": ["music", "dao", "rights", "streaming"]
+  }

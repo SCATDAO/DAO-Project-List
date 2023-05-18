@@ -1,0 +1,27 @@
+{
+    "name": "wingriders",
+    "category": "dex",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "wrt",
+    "description": "automated market maker decentralized exchange built on top of the cardano supporting connectors and hardware wallets such as ledger and trezor.",
+    "logo_url": {
+      "path": "/logo/wingriders.png",
+      "base64": "/logo/wingriders.json"
+    },
+    "whitepaper": "https://assets.wingriders.com/whitepaper.pdf",
+    "website": "https://www.wingriders.com/",
+    "repository": { "name": "github", "link": "https://github.com/WingRiders" },
+    "community": {
+      "reddit": "https://www.reddit.com/r/wingriderscom/",
+      "telegram": "https://t.me/WingRidersChat",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/@wingriderscom",
+      "discord": "https://discord.com/invite/t7CdyhK8JA",
+      "medium": "https://medium.com/@wingriderscom",
+      "facebook": "",
+      "twitter": "https://twitter.com/wingriderscom"
+    },
+    "tags": ["dex", "defi", "swap", "yield"]
+  }

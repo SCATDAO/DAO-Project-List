@@ -1,0 +1,27 @@
+{
+    "name": "cardanceswap",
+    "category": "defi",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "dance",
+    "description": "swap, earn, stack yields, lend, borrow, leverage all on one decentralized, community driven platform, trade with confidence and security.",
+    "logo_url": {
+      "path": "/logo/cardanceswap.png",
+      "base64": "/logo/cardanceswap.json"
+    },
+    "whitepaper": "https://cardance.finance/",
+    "website": "https://cardance.finance/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "https://www.instagram.com/cardanceswap/",
+      "youtube": "https://www.youtube.com/@cardanceswap4435",
+      "discord": "https://discord.io/CardanceSwap",
+      "medium": "",
+      "facebook": "https://web.facebook.com/cardanceswap",
+      "twitter": "https://twitter.com/CardanceSwap"
+    },
+    "tags": ["defi", "swap", "liquidity", "dex"]
+  }

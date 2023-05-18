@@ -1,0 +1,27 @@
+{
+    "name": "paribus",
+    "category": "lending",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "pbx",
+    "description": "a cross-chain borrowing and lending platform for nfts, liquidity positions, and synthetic assets, powered by the cardano blockchain.",
+    "logo_url": {
+        "path": "/logo/paribus.png",
+        "base64": "/logo/paribus.json"
+      },
+    "whitepaper": "https://paribus.io/documents/PARIBUS-Litepaper-V1.0.pdf",
+    "website": "https://paribus.io/",
+    "repository": { "name": "github", "link": "https://github.com/paribus" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/paribus_io",
+      "instagram": "",
+      "youtube": "",
+      "discord": "",
+      "medium": "https://blog.paribus.io/",
+      "facebook": "",
+      "twitter": "https://twitter.com/paribus_io"
+    },
+    "tags": ["lend", "eth", "synthetic", "borrowing"]
+  }

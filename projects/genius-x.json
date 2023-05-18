@@ -1,0 +1,27 @@
+{
+    "name": "genius-x",
+    "category": "accelerator",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "gensx",
+    "description": "a business accelerator and launchpad for innovative, accelerating and growth start-ups, backed by the genius yield team.",
+    "logo_url": {
+      "path": "/logo/genius-x.png",
+      "base64": "/logo/genius-x.json"
+    },
+    "whitepaper": "https://genius-x.gitbook.io/genius-x-whitepaper-v.-0.1/introduction/about-genius-x",
+    "website": "https://www.genius-x.co/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/geniusX_official",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCaPoXxROOpDb9waSGSKFkbw",
+      "discord": "https://discord.gg/G2nP7CuYju",
+      "medium": "https://medium.com/@GeniusXOfficial",
+      "facebook": "",
+      "twitter": "https://twitter.com/OfficialGeniusx"
+    },
+    "tags": ["accelerator", "ispo", "launchpad", "crosschain"]
+  }

@@ -1,0 +1,27 @@
+{
+    "name": "flipr",
+    "category": "marketplace",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "flip",
+    "description": "the flipr team and the passionate core community have a clear vision of making nfts more accessible, rewarding and engaging for all.",
+    "logo_url": {
+      "path": "/logo/flipr.png",
+      "base64": "/logo/flipr.json"
+    },
+    "whitepaper": "https://docs.flipr.io/",
+    "website": "https://flipr.io/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/d7C6ATn7Uy",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/flipr_io"
+    },
+    "tags": ["marketplace", "nft", "reward", "crosschain"]
+  }

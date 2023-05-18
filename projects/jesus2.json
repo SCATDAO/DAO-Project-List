@@ -1,0 +1,27 @@
+{
+    "name": "jesus2",
+    "category": "nft",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "empty",
+    "description": "nft project focused on the lore of jesus 2 universe, created by moynihan art director for midnight gospel and storyboard artist for adventure time.",
+    "logo_url": {
+      "path": "/logo/jesus2.png",
+      "base64": "/logo/jesus2.json"
+    },
+    "whitepaper": "https://whitepaper.jesus-2.com/",
+    "website": "https://www.jesus-2.com/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "https://www.instagram.com/jmoyns/",
+      "youtube": "",
+      "discord": "http://discord.gg/Jesus2Rises",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/Jesus2Rises"
+    },
+    "tags": ["nft", "art", "community", "cartoon"]
+  }

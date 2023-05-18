@@ -1,0 +1,27 @@
+{
+    "name": "cardano-gold",
+    "category": "value",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "cargo",
+    "description": "the 1st store of value on cardano, has incorporated satoshis initial vision with the emerging power of the cardano blockchain.",
+    "logo_url": {
+      "path": "/logo/cardano-gold.png",
+      "base64": "/logo/cardano-gold.json"
+    },
+    "whitepaper": "https://www.cardanogoldcoin.com/Cardano-Gold-Whitepaper-English.pdf",
+    "website": "https://www.cardanogoldcoin.com/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/7ah5RfMtZN",
+      "medium": "https://medium.com/@CardanoGoldCoin",
+      "facebook": "",
+      "twitter": "https://twitter.com/CardanoGoldCoin"
+    },
+    "tags": ["store", "value", "defi", "gold"]
+  }

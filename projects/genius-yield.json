@@ -1,0 +1,27 @@
+{
+    "name": "genius-yield",
+    "category": "defi",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "gens",
+    "description": "a non-custodial order-book-based dex and smart liquidity manager that offers smart swaps, programmable orders and concentrated liquidity positions.",
+    "logo_url": {
+      "path": "/logo/genius-yield.png",
+      "base64": "/logo/genius-yield.json"
+    },
+    "whitepaper": "https://www.geniusyield.co/whitepaper.pdf",
+    "website": "https://www.geniusyield.co/",
+    "repository": { "name": "github", "link": "https://github.com/geniusyield" },
+    "community": {
+      "reddit": "https://www.reddit.com/r/Genius_Yield/",
+      "telegram": "https://t.me/geniusyield_official",
+      "instagram": "https://www.instagram.com/genius_yield_official/",
+      "youtube": "https://www.youtube.com/channel/UC0Lw_flS1WokWYH9ZHIQv2g",
+      "discord": "https://discord.com/invite/D8HNJ3zhwH",
+      "medium": "https://geniusyield.medium.com/",
+      "facebook": "https://www.facebook.com/geniusyield",
+      "twitter": "https://twitter.com/GeniusyieldO"
+    },
+    "tags": ["dex", "swap", "yield", "liquidity"]
+  }

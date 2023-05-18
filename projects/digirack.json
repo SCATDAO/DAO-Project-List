@@ -1,0 +1,27 @@
+{
+    "name": "digirack",
+    "category": "nft",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "rack",
+    "description": "mint, list and trade your creative works, arts as non fungible tokens on the digirack nft ecosystem.",
+    "logo_url": {
+      "path": "/logo/digirack.png",
+      "base64": "/logo/digirack.json"
+    },
+    "whitepaper": "https://digirack.io/",
+    "website": "https://digirack.io/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/digiracknfts",
+      "instagram": "",
+      "youtube": "",
+      "discord": "",
+      "medium": "https://digiracknft.medium.com/",
+      "facebook": "",
+      "twitter": "https://twitter.com/digiracknfts"
+    },
+    "tags": ["nft", "marketplace", "game", "earn"]
+  }

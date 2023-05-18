@@ -1,0 +1,27 @@
+{
+    "name": "gero-wallet",
+    "category": "wallet",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "gero",
+    "description": "a browser-based, light wallet that can interact with dapps that has plans to be a one-stop-shop for interacting with defi, available as a mobile app.",
+    "logo_url": {
+      "path": "/logo/gero-wallet.png",
+      "base64": "/logo/gero-wallet.json"
+    },
+    "whitepaper": "https://gerowallet.io/assets/downloads/Gero_LP.pdf",
+    "website": "https://gerowallet.io/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/GeroWallet",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCtOzEFWEsLKvHALULZvsIFg",
+      "discord": "https://discord.gg/Wj4EyjNdNb",
+      "medium": "https://gerowallet.medium.com/",
+      "facebook": "",
+      "twitter": "https://twitter.com/GeroWallet"
+    },
+    "tags": ["wallet", "nft", "token", "tool"]
+  }

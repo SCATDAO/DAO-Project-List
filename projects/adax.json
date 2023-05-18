@@ -1,0 +1,27 @@
+{
+    "name": "adax",
+    "category": "dex",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "adax",
+    "description": "an amm based dex featuring an erc20 converter where all swap fees are split between the taker and the maker of the trade, also featuring a cex.",
+    "logo_url": {
+      "path": "/logo/adax.png",
+      "base64": "/logo/adax.json"
+    },
+    "whitepaper": "https://adax.gitbook.io/adax/",
+    "website": "https://adax.pro/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/adaxcommunity",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/GxXNQ9zS8e",
+      "medium": "https://adaxpro.medium.com/",
+      "facebook": "",
+      "twitter": "https://twitter.com/adax_pro"
+    },
+    "tags": ["dex", "lending", "borrowing", "yield"]
+  }

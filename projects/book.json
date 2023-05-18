@@ -1,0 +1,27 @@
+{
+    "name": "book",
+    "category": "ebook",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "book",
+    "description": "book.io is a web3 marketplace for buying, reading, and selling decentralized eBooks and audiobooks read-to-earn model on the cardano blockchain.",
+    "logo_url": {
+      "path": "/logo/book.png",
+      "base64": "/logo/book.json"
+    },
+    "whitepaper": "https://book.io/",
+    "website": "https://book.io/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "https://www.reddit.com/r/anetaBTC/",
+      "telegram": "https://t.me/booktoken_io",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/rNyn99WwYZ",
+      "medium": "https://book-io.medium.com/",
+      "facebook": "https://web.facebook.com/booktokenio",
+      "twitter": "https://twitter.com/book_io"
+    },
+    "tags": ["nft", "marketplace", "cross", "book"]
+  }

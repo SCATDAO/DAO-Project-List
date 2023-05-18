@@ -1,0 +1,27 @@
+{
+    "name": "ray-network",
+    "category": "network",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "xray",
+    "description": "provide the whole range of blockchain solutions from defi exchanges, api provisioning systems, light wallets, minting tools and explorers.",
+    "logo_url": {
+      "path": "/logo/ray-network.png",
+      "base64": "/logo/ray-network.json"
+    },
+    "whitepaper": "https://raynetwork.io/whitepaper/",
+    "website": "https://raynetwork.io/",
+    "repository": { "name": "github", "link": "https://github.com/ray-network/" },
+    "community": {
+      "reddit": "https://www.reddit.com/r/RayNetwork",
+      "telegram": "https://t.me/RayNetwork",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.gg/WhZmm46APN",
+      "medium": "https://raynetwork.medium.com/",
+      "facebook": "",
+      "twitter": "https://twitter.com/RayNetwork"
+    },
+    "tags": ["network", "defi", "wallet", "nft"]
+  }

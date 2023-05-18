@@ -1,0 +1,27 @@
+{
+    "name": "yayswap",
+    "category": "dex",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "yay",
+    "description": "the first hybrid dex platform on the cardano blockchain. swap your tokens in an instant, completely decentralized and open source.",
+    "logo_url": {
+      "path": "/logo/yayswap.png",
+      "base64": "/logo/yayswap.json"
+    },
+    "whitepaper": "https://yayswap.io/",
+    "website": "https://yayswap.io/",
+    "repository": { "name": "github", "link": "https://github.com/YaySwap" },
+    "community": {
+      "reddit": "https://www.reddit.com/r/YaySwap/",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/YaySwap"
+    },
+    "tags": ["dex", "swap", "bridge", "cross"]
+  }

@@ -1,0 +1,27 @@
+{
+    "name": "claynation",
+    "category": "metaverse",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "clay",
+    "description": "Clay nation is a collection of 10,000 digital characters with algorithmically assembled, handcrafted clay traits.",
+    "logo_url": {
+      "path": "/logo/clay.png",
+      "base64": "/logo/clay.json"
+    },
+    "whitepaper": "https://claynation.gitbook.io/claypaper",
+    "website": "https://www.claynation.io/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "https://www.instagram.com/the_claymates/",
+      "youtube": "https://www.youtube.com/channel/UCE2hX-yGE7ejMcjdUXxAIJQ",
+      "discord": "https://discord.com/invite/F24tA7Eyed",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/claymates"
+    },
+    "tags": ["nft","gaming","social", "world"]
+  }

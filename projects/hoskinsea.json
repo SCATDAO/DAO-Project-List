@@ -1,0 +1,27 @@
+{
+    "name": "hoskinsea",
+    "category": "nft",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "",
+    "description": "an nft marketplace built on the cardano network for your favorite arts, jpg, png, svg and more. we’re proud to be based on the cardano blockchain.",
+    "logo_url": {
+      "path": "/logo/hoskinsea.png",
+      "base64": "/logo/hoskinsea.json"
+    },
+    "whitepaper": "https://www.hoskinsea.io/",
+    "website": "https://www.hoskinsea.io/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/hoskinsea",
+      "instagram": "",
+      "youtube": "",
+      "discord": "",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/hoskinsea_io"
+    },
+    "tags": ["nft","marketplace","art", "mint"]
+  }

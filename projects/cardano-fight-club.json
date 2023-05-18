@@ -1,0 +1,27 @@
+{
+    "name": "cardano-fight-club",
+    "category": "game",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "empty",
+    "description": "the ultimate nft project combining development and utility-driven collections focused on delivering a unique web3 gaming experience for all.",
+    "logo_url": {
+      "path": "/logo/cardano-fight-club.png",
+      "base64": "/logo/cardano-fight-club.json"
+    },
+    "whitepaper": "",
+    "website": "https://cardanofight.club/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/cardanofightclub",
+      "medium": "https://medium.com/@CardanoFightClub",
+      "facebook": "",
+      "twitter": "https://twitter.com/cardanofighter"
+    },
+    "tags": ["combat", "sports", "game", "nft"]
+  }

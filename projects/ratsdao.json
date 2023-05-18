@@ -1,0 +1,27 @@
+{
+    "name": "ratsdao",
+    "category": "nft",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "rat",
+    "description": "the first daos to operate on cardano and the first to purchase native cardano blue chip nfts, like berry, spacebudz, clay nation and pxl.",
+    "logo_url": {
+      "path": "/logo/ratsdao.png",
+      "base64": "/logo/ratsdao.json"
+    },
+    "whitepaper": "https://ratsdao.io/whitepaper",
+    "website": "https://ratsdao.io/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/GbTV7Cyxs2",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/RatsDao"
+    },
+    "tags": ["nft", "art", "dao", "club"]
+  }

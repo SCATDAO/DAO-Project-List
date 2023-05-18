@@ -1,0 +1,27 @@
+{
+    "name": "mercury",
+    "category": "messaging",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "empty",
+    "description": "mercury is a fully functional wallet-to-wallet chat messenger system on the cardano ecosystem, on-chain communication tool for free use.",
+    "logo_url": {
+      "path": "/logo/mercury.png",
+      "base64": "/logo/mercury.json"
+    },
+    "whitepaper": "https://mercurychat.io/",
+    "website": "https://mercurychat.io/",
+    "repository": { "name": "github", "link": "https://github.com/fabiocolacio/Mercury" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/NvVNfQmPjp",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/MercuryChatio"
+    },
+    "tags": ["developer", "wallet", "messaging", "tool"]
+  }

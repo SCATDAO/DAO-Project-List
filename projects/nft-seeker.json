@@ -1,0 +1,27 @@
+{
+    "name": "nft-seeker",
+    "category": "nft",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "empty",
+    "description": "nft gated suite of tools for both traders and project founders, holders of our nft will get full unrestricted access to all of our tools.",
+    "logo_url": {
+      "path": "/logo/nft-seeker.png",
+      "base64": "/logo/nft-seeker.json"
+    },
+    "whitepaper": "https://nftseeker.tools/litepaper/",
+    "website": "https://nftseeker.tools",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/NFTSeeker",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/NFTSeeker21"
+    },
+    "tags": ["trading", "tools", "discord", "bots"]
+  }

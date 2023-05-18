@@ -1,0 +1,27 @@
+{
+    "name": "yamfore",
+    "category": "lending",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "cblp",
+    "description": "a decentralised non-custodial lending protocol powered by the cardano blockchain, crypto loans with no margin calls and indefinite loan terms.",
+    "logo_url": {
+      "path": "/logo/yamfore.png",
+      "base64": "/logo/yamfore.json"
+    },
+    "whitepaper": "https://yamfore.medium.com/yamfore-litepaper-77808558b071",
+    "website": "https://yamfore.com/",
+    "repository": { "name": "github", "link": "https://github.com/Yamfore" },
+    "community": {
+      "reddit": "https://www.reddit.com/user/yamfore/",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/FK5qtrmRE7",
+      "medium": "https://medium.com/@yamfore",
+      "facebook": "",
+      "twitter": "https://twitter.com/yamfore"
+    },
+    "tags": ["lending", "defi", "reward", "dao"]
+  }

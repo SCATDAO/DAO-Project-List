@@ -1,0 +1,27 @@
+{
+    "name": "liqwid",
+    "category": "lending",
+    "funded": "catalyst",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "lq",
+    "description": "Liqwid is an open source, algorithmic and non-custodial interest rate protocol built for lenders, borrowers and developers.",
+    "logo_url": {
+      "path": "/logo/liqwid.png",
+      "base64": "/logo/liqwid.json"
+    },
+    "whitepaper": "https://drive.google.com/file/d/1uZNmg72LO19br7s_besobV6RpYJl4Rfl/view",
+    "website": "https://www.liqwid.finance/",
+    "repository": { "name": "github", "link": "https://github.com/Liqwid-Labs" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/rQhbEBzpYm",
+      "medium": "https://liqwid-finance.medium.com/",
+      "facebook": "",
+      "twitter": "https://twitter.com/liqwidfinance"
+    },
+    "tags": ["liquidity","borrowing","earn", "yield"]
+  }

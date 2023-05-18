@@ -1,0 +1,27 @@
+{
+    "name": "indigo",
+    "category": "synthetics",
+    "funded": "catalyst",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "indy",
+    "description": "indigo allows anyone to create synthetic assets, known as iassets. iassets can be created using currencies such as stablecoins and ada.",
+    "logo_url": {
+        "path": "/logo/indigo.png",
+        "base64": "/logo/indigo.json"
+      },
+    "whitepaper": "https://indigoprotocol.io/wp-content/uploads/2022/01/whitepaper.pdf",
+    "website": "https://indigoprotocol.io/",
+    "repository": { "name": "github", "link": "https://github.com/IndigoProtocol" },
+    "community": {
+      "reddit": "https://www.reddit.com/r/indigoprotocol/",
+      "telegram": "https://t.me/indigo_protocol",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCZtghAMaSza6v6d1ie9ACIg",
+      "discord": "https://discord.gg/YUbduZezdP",
+      "medium": "https://indigoprotocol1.medium.com/",
+      "facebook": "",
+      "twitter": "https://twitter.com/Indigo_protocol"
+    },
+    "tags": ["native", "generator", "dao", "synthetic"]
+  }

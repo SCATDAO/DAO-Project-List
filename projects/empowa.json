@@ -1,0 +1,27 @@
+{
+    "name": "empowa",
+    "category": "realfi",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "emp",
+    "description": "green property development platform targeting the african market, harnessing the power of global community to empower people on the ground.",
+    "logo_url": {
+      "path": "/logo/empowa.png",
+      "base64": "/logo/empowa.json"
+    },
+    "whitepaper": "https://empowa.io/blackpaper/",
+    "website": "https://empowa.io/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/empowa_chat",
+      "instagram": "https://www.instagram.com/empowa_io/",
+      "youtube": "https://www.youtube.com/channel/UCfmTyDzMbYfdwUZZC1h9jbw",
+      "discord": "https://discord.gg/53hZwSTPMq",
+      "medium": "https://empowa-io.medium.com/",
+      "facebook": "https://www.facebook.com/empowa.io",
+      "twitter": "https://twitter.com/empowa_io"
+    },
+    "tags": ["realfi", "nft", "africa", "house"]
+  }

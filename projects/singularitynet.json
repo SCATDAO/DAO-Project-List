@@ -1,0 +1,27 @@
+{
+    "name": "singularitynet",
+    "category": "ai",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "agix",
+    "description": "an ai network and marketplace, providing ai developers with the platform to monetize their creations whilst making ai services available to everyone.",
+    "logo_url": {
+      "path": "/logo/singularitynet.png",
+      "base64": "/logo/singularitynet.json"
+    },
+    "whitepaper": "https://public.singularitynet.io/whitepaper.pdf",
+    "website": "https://singularitynet.io/",
+    "repository": { "name": "github", "link": "https://github.com/singnet" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://telegram.me/singularitynet",
+      "instagram": "https://www.instagram.com/singularitynet.io/",
+      "youtube": "https://www.youtube.com/c/SingularityNET",
+      "discord": "https://discord.com/invite/snet",
+      "medium": "https://blog.singularitynet.io/",
+      "facebook": "https://www.facebook.com/singularityNET.io",
+      "twitter": "https://twitter.com/SinguarityNET"
+    },
+    "tags": ["ai", "dao", "developer", "crosschain"]
+  }

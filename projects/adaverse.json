@@ -1,0 +1,27 @@
+{
+    "name": "adaverse",
+    "category": "nft",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "myth",
+    "description": "adaverse is a nft game with ai generated art, galaxy, worlds, crews, alliances, spaceships, combat, trade, upgrades and drops.",
+    "logo_url": {
+      "path": "/logo/adaverse.png",
+      "base64": "/logo/adaverse.json"
+    },
+    "whitepaper": "https://adaverse.cc",
+    "website": "https://adaverse.cc",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/eYYEGPSYay",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/AdaverseX"
+    },
+    "tags": ["metaverse", "nft", "game", "community"]
+  }

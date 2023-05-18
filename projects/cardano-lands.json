@@ -1,0 +1,27 @@
+{
+    "name": "cardano-lands",
+    "category": "defi",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "exo",
+    "description": "platform where users can stake nfts from supported collections to earn passive income. virtual economy with exchanges, wallets, and staking pools. ",
+    "logo_url": {
+      "path": "/logo/cardano-lands.png",
+      "base64": "/logo/cardano-lands.json"
+    },
+    "whitepaper": "https://whitepaper.cardanolands.com/intro/cardano-lands-universe",
+    "website": "https://www.cardanolands.com/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/cardanolands",
+      "medium": "https://medium.com/@CardanoLands",
+      "facebook": "",
+      "twitter": "https://twitter.com/cardanolands"
+    },
+    "tags": ["nft", "metaverse", "earn", "community"]
+  }

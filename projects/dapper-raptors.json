@@ -1,0 +1,27 @@
+{
+    "name": "dapper-raptors",
+    "category": "nft",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "daptor",
+    "description": "only 10000 daptors will be minted, collect all your favorite raptors, we authorize the current nft holder to make unlimited copies of their nft image.",
+    "logo_url": {
+      "path": "/logo/dapper-raptors.png",
+      "base64": "/logo/dapper-raptors.json"
+    },
+    "whitepaper": "https://www.daptors.art/",
+    "website": "https://www.daptors.art/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.gg/FpdeBsX2Rg",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/DapperRaptors"
+    },
+    "tags": ["nft", "art", "developer", "discord"]
+  }

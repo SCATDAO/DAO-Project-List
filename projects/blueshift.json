@@ -1,0 +1,27 @@
+{
+    "name": "blueshift",
+    "category": "defi",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "blues",
+    "description": "blueshift is a highly efficient automated market maker and liquidity management platform that has reinvented defi in cardano.",
+    "logo_url": {
+      "path": "/logo/blueshift.png",
+      "base64": "/logo/blueshift.json"
+    },
+    "whitepaper": "https://blueshift.fi/wp-content/uploads/2023/02/blueshift-whitepaper.pdf",
+    "website": "https://blueshift.fi/",
+    "repository": { "name": "github", "link": "https://github.com/blueshift-fi" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/BlueshiftGroup",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCq1T9JaQgVVspcpYnegTq3g",
+      "discord": "https://discord.gg/NupBJw9BGs",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/blueshiftfi"
+    },
+    "tags": ["dex", "defi", "swap", "yield"]
+  }

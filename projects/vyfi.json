@@ -1,0 +1,35 @@
+{
+	"name": "vyfi",
+	"category": "swap",
+	"funded": "private",
+	"listed": "community",
+	"audited": "not",
+	"symbol": "vyfi",
+	"description": "Native Cardano token designed for decentralized finance applications. swapping, providing liquidity pool, lending, and borrowing",
+    "logo_url": {
+        "path": "/logo/vyfi.png",
+        "base64": "/logo/vyfi.json"
+      },
+	"whitepaper": "https://vyfi-docs.s3.amazonaws.com/whitepaper.pdf",
+	"website": "https://vyfi.io/",
+	"repository": {
+		"name": "",
+		"link": ""
+	},
+	"community": {
+		"reddit": "",
+		"telegram": "https://t.me/vyfinance",
+		"instagram": "",
+		"youtube": "https://www.youtube.com/channel/UCEPcpy0IQnqLh_RUfpeAOmQ",
+		"discord": "https://discord.gg/xGAD3hSXbu",
+		"medium": "",
+		"facebook": "https://www.facebook.com/Vecoin-105390894876297",
+		"twitter": "https://www.twitter.com/VyFiOfficial"
+	},
+	"tags": [
+		"swap",
+		"vault",
+		"farming",
+		"lottery"
+	]
+}

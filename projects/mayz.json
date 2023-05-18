@@ -1,0 +1,27 @@
+{
+    "name": "mayz",
+    "category": "index",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "mayz",
+    "description": "decentralized, permissionless, and non-custodial protocol that allows the creation of cardano native token funds managed by its community members.",
+    "logo_url": {
+      "path": "/logo/mayz.png",
+      "base64": "/logo/mayz.json"
+    },
+    "whitepaper": "https://www.mayz.io/",
+    "website": "https://www.mayz.io/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "https://www.instagram.com/mayz.protocol/",
+      "youtube": "",
+      "discord": "https://discord.gg/6xkbynuNrj",
+      "medium": "https://medium.com/@MAYZ.io",
+      "facebook": "",
+      "twitter": "https://twitter.com/MAYZProtocol"
+    },
+    "tags": ["index", "funds", "defi", "portfolio"]
+  }

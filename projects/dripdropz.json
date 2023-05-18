@@ -1,0 +1,27 @@
+{
+    "name": "dripdropz",
+    "category": "drop",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "drip",
+    "description": "provides token dispensing services to the cardano community, offers projects a comprehensive selection of distribution parameters.",
+    "logo_url": {
+      "path": "/logo/dripdropz.png",
+      "base64": "/logo/dripdropz.json"
+    },
+    "whitepaper": "www.dripdropz.io",
+    "website": "www.dripdropz.io",
+    "repository": { "name": "github", "link": "https://github.com/DripDropz" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/+vjveM6iyK4Y2MTJh",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCW9O-P2pPIgxLwdlF7nuuKw",
+      "discord": "https://discord.gg/BfFCgQyhRU",
+      "medium": "https://dripdropz.medium.com/",
+      "facebook": "",
+      "twitter": "https://twitter.com/DripDropz_io"
+    },
+    "tags": ["developer", "drop", "nft", "community"]
+  }

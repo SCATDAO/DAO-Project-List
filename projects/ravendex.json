@@ -1,0 +1,27 @@
+{
+    "name": "ravendex",
+    "category": "dex",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "rave",
+    "description": "developing a decentralized automated market maker protocol that will enable users to swap and trade native cardano tokens in a trustless manner.",
+    "logo_url": {
+      "path": "/logo/ravendex.png",
+      "base64": "/logo/ravendex.json"
+    },
+    "whitepaper": "https://ravendex.io/",
+    "website": "https://ravendex.io/",
+    "repository": { "name": "github", "link": "https://github.com/ravendexlabs" },
+    "community": {
+      "reddit": "https://www.reddit.com/r/ravendex/",
+      "telegram": "https://t.me/RaversNest",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCqAe5abxyV34HdEfuz4uo2A",
+      "discord": "",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/ravendexlabs"
+    },
+    "tags": ["dex", "swap", "yield", "farming"]
+  }

@@ -1,0 +1,27 @@
+{
+  "name": "ashib",
+  "category": "meme",
+  "funded": "private",
+  "listed": "community",
+  "audited": "not",
+  "symbol": "ashib",
+  "description": "ada shiba inu or a shib for short, is the 2.0 version of shiba inu built on cardano utilizing low gas fees and cardano’s extended utxo model.",
+  "logo_url": {
+    "path": "/logo/a-shib.png",
+    "base64": "/logo/a-shib.json"
+  },
+  "whitepaper": "",
+  "website": "https://ashib.io/",
+  "repository": { "name": "", "link": "" },
+  "community": {
+    "reddit": "",
+    "telegram": "https://t.me/theashibtoken",
+    "instagram": "https://www.instagram.com/ashibtoken/",
+    "youtube": "",
+    "discord": "https://discord.gg/gaaRJcVkwT",
+    "medium": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/ASHIBTOKEN"
+  },
+  "tags": ["eth", "meme", "inu", "mirror"]
+}

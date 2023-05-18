@@ -1,0 +1,27 @@
+{
+    "name": "mutants",
+    "category": "rewards",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "empty",
+    "description": "mutant Labs is a dapp developed that helps the community to provide an ecosystem for nft projects in the cardano ecosystem.",
+    "logo_url": {
+      "path": "/logo/mutants.png",
+      "base64": "/logo/mutants.json"
+    },
+    "whitepaper": "https://mutants.gitbook.io/",
+    "website": "https://labs.mutant-nft.com/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "http://discord.gg/mutantnft",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/MutantNFTs"
+    },
+    "tags": ["tech", "reward", "nft", "community"]
+  }

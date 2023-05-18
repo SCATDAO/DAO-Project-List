@@ -1,0 +1,27 @@
+{
+    "name": "axo",
+    "category": "defi",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "axo",
+    "description": "exchange digital assets, create trading strategies and utilize advanced custom order types on a single intuitive platform. solution to the inefficiencies and central counterparty risks",
+    "logo_url": {
+      "path": "/logo/axo.png",
+      "base64": "/logo/axo.json"
+    },
+    "whitepaper": "https://www.axo.trade/whitepaper.pdf",
+    "website": "https://www.axo.trade/",
+    "repository": { "name": "github", "link": "https://github.com/Maladex" },
+    "community": {
+      "reddit": "https://www.reddit.com/r/axotrade",
+      "telegram": "",
+      "instagram": "https://www.instagram.com/axotrade/",
+      "youtube": "https://www.youtube.com/@axotrade",
+      "discord": "https://discord.com/invite/axotrade",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/axotrade"
+    },
+    "tags": ["dex", "defi", "swap", "yield"]
+  }

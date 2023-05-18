@@ -1,0 +1,30 @@
+{
+  "name": "sundaeswap",
+  "category": "dex",
+  "funded": "private",
+  "listed": "community",
+  "audited": "not",
+  "symbol": "sundae",
+  "description": "sundaeswap is a decentralized exchange built for the cardano blockchain, native, scalable decentralized and automated liquidity provision protocol.",
+  "logo_url": {
+    "path": "/logo/sundaeswap.png",
+    "base64": "/logo/sundaeswap.json"
+  },
+  "whitepaper": "https://sundaeswap.finance/papers/SundaeSwap-2021-06-01-Fundamentals.pdf",
+  "website": "https://sundaeswap.finance/",
+  "repository": {
+    "name": "github",
+    "link": "https://github.com/SundaeSwap-finance"
+  },
+  "community": {
+    "reddit": "https://www.reddit.com/r/SundaeSwap/",
+    "telegram": "https://t.me/SundaeSwapOfficial",
+    "instagram": "",
+    "youtube": "https://www.youtube.com/channel/UCybQ4HnfBWFJarFZn7HFbmg",
+    "discord": "https://discord.com/invite/Sundae",
+    "medium": "https://sundaeswap-finance.medium.com/",
+    "facebook": "",
+    "twitter": "https://twitter.com/SundaeSwap"
+  },
+  "tags": ["native", "liquidity", "automated", "exchange"]
+}

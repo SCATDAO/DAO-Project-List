@@ -1,0 +1,27 @@
+{
+    "name": "iagon",
+    "category": "cloud",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "iag",
+    "description": "an open sourced, decentralized, platform for scalable, cloud computing and data storage, operating across multiple blockchain.",
+    "logo_url": {
+      "path": "/logo/iagon.png",
+      "base64": "/logo/iagon.json"
+    },
+    "whitepaper": "https://docs.iagon.com/docs/whitepaper/introduction",
+    "website": "www.iagon.com",
+    "repository": { "name": "github", "link": "https://github.com/iagonorg" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/Iagon_official",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/channel/UCpIUqQSMK5cE4QncanEUpKg",
+      "discord": "",
+      "medium": "",
+      "facebook": "https://www.facebook.com/IagonOfficial/",
+      "twitter": "https://twitter.com/IagonOfficial"
+    },
+    "tags": ["computing", "storage", "cloud", "service"]
+  }

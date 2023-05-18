@@ -1,0 +1,27 @@
+{
+    "name": "adalend",
+    "category": "defi",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "adal",
+    "description": "new wave of flexible financial markets by providing a layer for instant loan approval, automated collateral, trustless custody, and liquidity.",
+    "logo_url": {
+      "path": "/logo/adalend.png",
+      "base64": "/logo/adalend.json"
+    },
+    "whitepaper": "https://adalend.gitbook.io/whitepaper/",
+    "website": "https://adalend.finance/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "https://www.reddit.com/r/ADAlend/",
+      "telegram": "https://t.me/ADALend",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.gg/MNFEHvqKrp",
+      "medium": "https://medium.com/@Adalend_Finance",
+      "facebook": "https://web.facebook.com/ADALend",
+      "twitter": "https://twitter.com/ADAlend_finance"
+    },
+    "tags": ["lending", "governance", "borrowing", "defi"]
+  }

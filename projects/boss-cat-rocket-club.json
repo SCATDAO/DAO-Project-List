@@ -1,0 +1,27 @@
+{
+    "name": "boss-cat-rocket-club",
+    "category": "nft",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "empty",
+    "description": "the boss cat rocket club is a finite supply of 9,999 algorithmically generated space bound cats living on the cardano blockchain.",
+    "logo_url": {
+      "path": "/logo/boss-cat-rocket-club.png",
+      "base64": "/logo/boss-cat-rocket-club.json"
+    },
+    "whitepaper": "https://bosscatrocketclub.com/",
+    "website": "https://bosscatrocketclub.com/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "https://www.instagram.com/bosscatrc/",
+      "youtube": "",
+      "discord": "https://discord.com/invite/bosscatrocketclub",
+      "medium": "https://medium.com/@BossCatRocketClub",
+      "facebook": "https://www.tiktok.com/@bosscatrc/",
+      "twitter": "https://twitter.com/BossCatRC"
+    },
+    "tags": ["club","nft","defi", "game"]
+  }

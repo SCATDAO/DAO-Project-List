@@ -1,0 +1,27 @@
+{
+    "name": "mocossi",
+    "category": "game",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "mcos",
+    "description": "play-win games that incorporate virtual pet and farming simulation elements and implement smart contracts into their in-game ecosystem.",
+    "logo_url": {
+      "path": "/logo/mocossi.png",
+      "base64": "/logo/mocossi.json"
+    },
+    "whitepaper": "https://whitepaper.mocossi.com/",
+    "website": "https://mocossi.com/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "https://www.instagram.com/officialmocossi/",
+      "youtube": "https://www.youtube.com/channel/UCXum8RJUI8DijAtnIxXBshQ",
+      "discord": "https://discord.com/invite/Q7K7ffmMKe",
+      "medium": "",
+      "facebook": "https://www.facebook.com/mocossiplanet",
+      "twitter": "https://twitter.com/officialmocossi"
+    },
+    "tags": ["play", "earn", "game", "nft"]
+  }

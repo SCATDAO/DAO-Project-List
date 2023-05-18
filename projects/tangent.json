@@ -1,0 +1,27 @@
+{
+    "name": "tangent",
+    "category": "defi",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "tang",
+    "description": "integrating nfts, defi utility and smart contracts in a web3 functionality that can be utilized by developers, creators, artists and users.",
+    "logo_url": {
+      "path": "/logo/tangent.png",
+      "base64": "/logo/tangent.json"
+    },
+    "whitepaper": "https://tangent.art/wp-content/uploads/2022/09/Tangent-Whitepaper-V1.3.pdf",
+    "website": "https://tangent.art/",
+    "repository": { "name": "github", "link": "https://github.com/TangentADA" },
+    "community": {
+      "reddit": "https://www.reddit.com/r/TangentADA",
+      "telegram": "https://t.me/TangentADA",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/tangentada",
+      "discord": "https://discord.com/invite/ddvmwzkx75",
+      "medium": "https://medium.com/@TangentADA",
+      "facebook": "https://www.facebook.com/tangentADA/",
+      "twitter": "https://twitter.com/TangentADA"
+    },
+    "tags": ["defi", "nft", "staking", "art"]
+  }

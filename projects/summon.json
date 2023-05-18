@@ -1,0 +1,27 @@
+{
+    "name": "summon",
+    "category": "dao",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "summon",
+    "description": "a revolutionary no-code governance and digital asset management platform for daos allows for users to create, update, coordinate and manage daos.",
+    "logo_url": {
+      "path": "/logo/summon.png",
+      "base64": "/logo/summon.json"
+    },
+    "whitepaper": "https://summonplatform.io/litepaper/",
+    "website": "https://summonplatform.io/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/xH2Ph8AXPD",
+      "medium": "https://medium.com/@summonplatform",
+      "facebook": "https://www.linkedin.com/company/summonplatform/",
+      "twitter": "https://twitter.com/SummonPlatform"
+    },
+    "tags": ["dao", "multisig", "voting", "tooling"]
+  }

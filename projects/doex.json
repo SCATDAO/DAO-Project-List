@@ -1,0 +1,27 @@
+{
+    "name": "doex",
+    "category": "dex",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "doex",
+    "description": "decentralized exchange for assets that are native to the cardano blockchain automatic market making based protocols to execute transactions.",
+    "logo_url": {
+      "path": "/logo/doex.png",
+      "base64": "/logo/doex.json"
+    },
+    "whitepaper": "https://do.exchange/whitepaper.pdf",
+    "website": "https://do.exchange/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "https://www.reddit.com/r/doex/",
+      "telegram": "https://t.me/doexcommunity",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/@doex4450",
+      "discord": "https://discord.com/invite/KdBhVtvq",
+      "medium": "https://doex.medium.com/",
+      "facebook": "",
+      "twitter": "https://twitter.com/doex_official"
+    },
+    "tags": ["defi", "dex", "amm", "native"]
+  }

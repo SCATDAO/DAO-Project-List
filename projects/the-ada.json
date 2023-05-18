@@ -1,0 +1,27 @@
+{
+    "name": "the-ada",
+    "category": "nft",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "tada",
+    "description": "focused on cardano native tokens and will allow every project to set up permissionless staking, the second stage is focused on native nft staking.",
+    "logo_url": {
+      "path": "/logo/the-ada.png",
+      "base64": "/logo/the-ada.json"
+    },
+    "whitepaper": "https://theada.gitbook.io/whitepaper/the-ada/abstract",
+    "website": "https://theada.pro/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "https://www.reddit.com/user/TheADAPRO",
+      "telegram": "https://t.me/TheADAPROOFFICIAL",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/sZamB7gGxG",
+      "medium": "https://medium.com/@theadaproofficial",
+      "facebook": "",
+      "twitter": "https://twitter.com/TheADAPRO"
+    },
+    "tags": ["nft", "staking", "defi", "marketplace"]
+  }

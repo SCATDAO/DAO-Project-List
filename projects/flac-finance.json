@@ -1,0 +1,27 @@
+{
+    "name": "flac-finance",
+    "category": "realfi",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "flac",
+    "description": "realfi platform that seeks to provide regulated financial services to users in India and worldwide, faster, safer, and accessible to everyone.",
+    "logo_url": {
+      "path": "/logo/flac-finance.png",
+      "base64": "/logo/flac-finance.json"
+    },
+    "whitepaper": "https://flac.finance/whitepaper.pdf",
+    "website": "https://flac.finance/",
+    "repository": { "name": "github", "link": "https://github.com/StricaHQ" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/ADBF9ec7DC",
+      "medium": "https://flacfinance.medium.com/",
+      "facebook": "",
+      "twitter": "https://twitter.com/FlacFinance"
+    },
+    "tags": ["realfi", "defi", "lending", "borrowing"]
+  }
