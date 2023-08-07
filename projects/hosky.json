@@ -1,0 +1,27 @@
+{
+    "name": "hosky",
+    "category": "meme",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "hosky",
+    "description": "the premiere low-quality shit coin doggo meme token exclusively on the cardano ecosystem. 1,000,000,000,000,001 supply.",
+    "logo_url": {
+      "path": "/logo/hosky.png",
+      "base64": "/logo/hosky.json"
+    },
+    "whitepaper": "https://hosky.io/",
+    "website": "https://hosky.io/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/hosky_discussion",
+      "instagram": "",
+      "youtube": "",
+      "discord": "http://discord.gg/hosky",
+      "medium": "",
+      "facebook": "",
+      "twitter": "http://twitter.com/hoskytoken"
+    },
+    "tags": ["meme", "inu", "nft", "fun"]
+  }

@@ -1,0 +1,27 @@
+{
+    "name": "bank",
+    "category": "meme",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "bank",
+    "description": "We are creating a token to harness the energy and enthusiasm of the meme coin season. Our intention has always been to support the community.",
+    "logo_url": {
+      "path": "/logo/bank.png",
+      "base64": "/logo/bank.json"
+    },
+    "whitepaper": "https://bankercoinada.com/tokenomics.html",
+    "website": "https://bankercoinada.com/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/9EXNSNwK8M",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/BankercoinAda"
+    },
+    "tags": ["meme", "inu", "nft", "fun"]
+  }

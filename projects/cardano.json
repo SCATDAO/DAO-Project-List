@@ -1,0 +1,27 @@
+{
+  "name": "cardano",
+  "category": "blockchain",
+  "funded": "private",
+  "listed": "community",
+  "audited": "not",
+  "symbol": "ada",
+  "description": "Cardano channel is a space for write, share and explore off-topic posts, use this channel to publish something about the ecosystem.",
+  "logo_url": {
+    "path": "/logo/global-channel.png",
+    "base64": "/logo/global-channel.json"
+  },
+  "whitepaper": "https://auditocean.com/",
+  "website": "https://auditocean.com/",
+  "repository": { "name": "", "link": "" },
+  "community": {
+    "reddit": "https://auditocean.com/",
+    "telegram": "https://auditocean.com/",
+    "instagram": "https://auditocean.com/",
+    "youtube": "https://auditocean.com/",
+    "discord": "https://auditocean.com/",
+    "medium": "https://auditocean.com/",
+    "facebook": "https://auditocean.com/",
+    "twitter": "https://auditocean.com/"
+  },
+  "tags": ["channel", "global", "portal", "diverse"]
+}

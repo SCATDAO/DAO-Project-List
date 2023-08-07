@@ -1,0 +1,27 @@
+{
+    "name": "meld",
+    "category": "defi",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "meld",
+    "description": "meld is a non-custodial defi protocol for web3 finance, providing cross-chain lending, collateral, cash, borrowing and staking.",
+    "logo_url": {
+      "path": "/logo/meld.png",
+      "base64": "/logo/meld.json"
+    },
+    "whitepaper": "https://www.meld.com/",
+    "website": "https://www.meld.com/",
+    "repository": { "name": "github", "link": "https://github.com/meld-labs" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://twitter.com/MELD_Defi",
+      "instagram": "",
+      "youtube": "https://www.youtube.com/@MELD",
+      "discord": "https://discord.gg/caDXKq75ys",
+      "medium": "https://medium.com/meld-labs",
+      "facebook": "",
+      "twitter": "https://twitter.com/MELD_Defi"
+    },
+    "tags": ["defi", "load", "realfi", "borrowing"]
+  }

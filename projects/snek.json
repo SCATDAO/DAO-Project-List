@@ -1,0 +1,27 @@
+{
+    "name": "snek",
+    "category": "meme",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "snek",
+    "description": "our vision is to create a sustainable and inclusive community-driven token on the cardano blockchain, providing a rewarding experience for holders.",
+    "logo_url": {
+      "path": "/logo/snek.png",
+      "base64": "/logo/snek.json"
+    },
+    "whitepaper": "https://www.snekcoinada.com/tokenomics",
+    "website": "https://www.snekcoinada.com/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/snekcoinada",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.com/invite/9YfWYeyAwn",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/snekcoinada"
+    },
+    "tags": ["meme", "inu", "nft", "fun"]
+  }

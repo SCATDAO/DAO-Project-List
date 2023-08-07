@@ -1,0 +1,27 @@
+{
+    "name": "linkage-finance",
+    "category": "index",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "",
+    "description": "the first iteration of smart contracts that will enable user to create, tracking, manage and trade decentralized index funds on cardano. ",
+    "logo_url": {
+      "path": "/logo/linkage-finance.png",
+      "base64": "/logo/linkage-finance.json"
+    },
+    "whitepaper": "https://www.linkage.finance/",
+    "website": "https://www.linkage.finance/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/linkagefi",
+      "instagram": "",
+      "youtube": "",
+      "discord": "",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/OptionFlowTeam"
+    },
+    "tags": ["index", "funds", "defi", "portfolio"]
+  }
