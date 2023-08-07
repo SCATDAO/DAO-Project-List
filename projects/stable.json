@@ -1,0 +1,27 @@
+{
+    "name": "stable",
+    "category": "meme",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "stable",
+    "description": "galloping in to defi with the most unstablecoin on cardano that helps to educate and onboard users into crypto through the power of memes.",
+    "logo_url": {
+      "path": "/logo/stable.png",
+      "base64": "/logo/stable.json"
+    },
+    "whitepaper": "https://stablecoinada.xyz/",
+    "website": "https://stablecoinada.xyz/",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/stablecoinada",
+      "instagram": "",
+      "youtube": "",
+      "discord": "https://discord.gg/CatbtQA9HP",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/stablecoinada"
+    },
+    "tags": ["meme", "inu", "defi", "fun"]
+  }

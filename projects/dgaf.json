@@ -1,0 +1,30 @@
+{
+  "name": "dgaf",
+  "category": "meme",
+  "funded": "private",
+  "listed": "community",
+  "audited": "not",
+  "symbol": "dgaf",
+  "description": "A meme coin built by people who don't give a fuck and owned by people who don't give a fuck. 100,000,000,000 of supply.",
+  "logo_url": {
+    "path": "/logo/dgaf.png",
+    "base64": "/logo/dgaf.json"
+  },
+  "whitepaper": "https://dgafcoin.io/",
+  "website": "https://dgafcoin.io/",
+  "repository": {
+    "name": "",
+    "link": ""
+  },
+  "community": {
+    "reddit": "",
+    "telegram": "",
+    "instagram": "",
+    "youtube": "",
+    "discord": "https://discord.gg/h8vwCbs8S9",
+    "medium": "",
+    "facebook": "",
+    "twitter": "https://twitter.com/dgafcoin"
+  },
+  "tags": ["meme", "inu", "burn", "fun"]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "option-flow",
+    "category": "defi",
+    "funded": "private",
+    "listed": "community",
+    "audited": "not",
+    "symbol": "opt",
+    "description": "built on the cardano blockchain our mission is to revolutionize the options market, making it accessible, transparent, and innovative.",
+    "logo_url": {
+      "path": "/logo/option-flow.png",
+      "base64": "/logo/option-flow.json"
+    },
+    "whitepaper": "https://optionflow.finance/static/whitepaper.pdf",
+    "website": "https://www.optionflow.finance",
+    "repository": { "name": "", "link": "" },
+    "community": {
+      "reddit": "",
+      "telegram": "https://t.me/optionflow_cardano",
+      "instagram": "",
+      "youtube": "",
+      "discord": "",
+      "medium": "",
+      "facebook": "",
+      "twitter": "https://twitter.com/OptionFlowTeam"
+    },
+    "tags": ["options", "protocol", "minting", "defi"]
+  }
